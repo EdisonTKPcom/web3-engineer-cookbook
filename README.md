@@ -1,1 +1,3 @@
 # web3-engineer-cookbook
+
+Agentic RAG Starter — Spin up a modern, production-minded RAG stack in a day. Go beyond “retrieve + answer” with an agent that can plan steps, call tools, and verify its own work. The template covers ingestion (PDF/HTML/MD), chunking & embeddings, a plug-in vector store (pgvector/Qdrant), optional re-ranking, and a slim evaluation harness (RAG-style precision/faithfulness checks + task unit tests) so you can measure improvements instead of guessing. Model adapters make it easy to switch between cloud and local LLMs, while simple guardrails (prompt/PII basics) and logging give you confidence to demo to stakeholders quickly. Ideal for teams who want a clean starting point that already thinks about observability, evals, and cost.
